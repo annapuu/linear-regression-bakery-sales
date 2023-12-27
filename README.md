@@ -6,7 +6,7 @@ For this course, the sales and weather data were provided by [meteolytix](https:
 
 ## Files
 - [data.R](https://github.com/annapuu/linear-regression-bakery-sales/blob/main/data.R): data preparation, which means importing, joining and creating the needed data and filling certain missing values
-- baseline_model.Rmd: in this notebook, the data is sorted and divided into training, validation and test data before searching for the best linear model
+- [baseline_model.nb.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/annapuu/linear-regression-bakery-sales/main/baseline_model.nb.html): in this notebook, the data is sorted and divided into training, validation and test data before searching for the best linear model
 - model_7.Rmd: preparation of test data, prediction for validation data and assessing its performance as well as prediction for the test data
 
 ## Libraries
